@@ -1,9 +1,9 @@
 void main() {
   for (int i = 0; i < 5; i++) {
-    print('hello ${i + 1}' + bittttch('VIB'));
+    print('hello ${i + 1}' + bitttch('VIB'));
   }
 }
 
-String bittttch (name) {
+String bitttch (name) {
   return 'yo bitch ' + name;
 }
